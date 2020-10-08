@@ -1,0 +1,57 @@
+body {
+    margin:0
+}
+#bloc1 {
+    float: left;
+    background-color: #2ecc71;
+    width: 80%;
+    height: 30px;
+}
+#bloc2 {
+    float: left;
+    background-color: #2980b9;
+    width: 20%;
+    height: 30px;
+}
+#bloc3 {
+    float: left;
+    background-color: #e74c3c;
+    width: 34%;
+    height: 90px;
+}
+#bloc4 {
+    float: left;
+    background-color: #e67e22;
+    width: 33%;
+    height: 45px;
+}
+#bloc5 {
+    float: left;
+    background-color: #95a5a6;
+    width: 33%;
+    height: 45px;
+}
+#bloc6 {
+    float: left;
+    background-color: #f39c12;
+    width: 22%;
+    height: 45px;
+}
+#bloc7 {
+    float: left;
+    background-color: #16a085;
+    width: 22%;
+    height: 45px;
+}
+#bloc8 {
+    float: left;
+    background-color: #d35400;
+    width: 22%;
+    height: 45px;
+}
+#bloc9 {
+    float: left;
+    background-color: #2c3e50;
+    width: 100%;
+    height: 120px;
+}
